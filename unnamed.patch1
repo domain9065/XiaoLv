@@ -1,0 +1,8 @@
+Index: app/src/main/java/com/xiaolv/xiaolv/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/xiaolv/xiaolv/MainActivity.java	(revision cf1f6caaa92dee1cce7b0a20b4c94544023f9053)
++++ app/src/main/java/com/xiaolv/xiaolv/MainActivity.java	(revision 41a987a608936e08a317e483e5ae7d8457bbed5a)
+@@ -1,0 +1,0 @@
